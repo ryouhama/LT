@@ -71,4 +71,4 @@ Bad プラクティス（になりがち...）
 - [探索的テストってなんですか？
 アジャイル時代のソフトウェアテスト](http://jasst.jp/symposium/jasst14kyushu/pdf/S3.pdf)
 
-- vscodeでPEF作成 marpについて
+- [vscodeでPDF作成 marpについて](https://qiita.com/tomo_makes/items/aafae4021986553ae1d8)
